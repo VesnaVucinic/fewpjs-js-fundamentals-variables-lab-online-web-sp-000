@@ -6,3 +6,7 @@ mostProfitableNeighborhood = 'Upper West Side'
 let companyCeo = 'Susan Smith'
 companyCeo = 'Lauren Hart'
 
+  
+// const companyName = 'Scuber'
+// let mostProfitableNeighborhood = 'Chelsea'
+// let companyCeo = 'Susan Smith
